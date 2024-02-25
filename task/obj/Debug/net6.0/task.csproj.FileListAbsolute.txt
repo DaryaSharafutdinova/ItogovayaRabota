@@ -1,0 +1,15 @@
+C:\projects\itog\task\bin\Debug\net6.0\task.exe
+C:\projects\itog\task\bin\Debug\net6.0\task.deps.json
+C:\projects\itog\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\projects\itog\task\bin\Debug\net6.0\task.dll
+C:\projects\itog\task\bin\Debug\net6.0\task.pdb
+C:\projects\itog\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\projects\itog\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itog\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\projects\itog\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\projects\itog\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\projects\itog\task\obj\Debug\net6.0\task.dll
+C:\projects\itog\task\obj\Debug\net6.0\refint\task.dll
+C:\projects\itog\task\obj\Debug\net6.0\task.pdb
+C:\projects\itog\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\projects\itog\task\obj\Debug\net6.0\ref\task.dll
